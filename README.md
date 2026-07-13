@@ -3,7 +3,8 @@ TAAAAAAAAAAA MALUCO????????????????W
 Focado em dominar o **C#**
 ---
 
-i dont know, but i have idea
+i dont know, but i have idea.
+
 why you not give more time for i thing about us
 
 **Linguagens & Engine:**
@@ -21,8 +22,7 @@ why you not give more time for i thing about us
   <img src="https://github-readme-stats.vercel.app/api?username=Wendel4444&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
----
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Game%20development%20is%2090%25%20logic%20and%2010%25%20magic." />
+  <img src="[COLA_AQUI_O_LINK_DO_GIF](https://tenor.com/pt-BR/view/arnold-schwarzenegger-straight-face-serious-serious-face-problem-gif-12256700567943647059)" width="300" />
 </p>
