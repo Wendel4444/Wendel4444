@@ -1,16 +1,10 @@
-# 🎮 dasvidanya
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0f172a&height=200&section=header&text=be%20quiet%20and%20drive&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=deff9a" />
-</p>
-
-### 🌌 Sobre mim
-> "be quiet and drive(Far away)"
+TAAAAAAAAAAA MALUCO????????????????W
 
 Focado em dominar o **C#**
 ---
 
-### 🛠️ The Gear (Skills)
+i dont know, but i have idea
+why you not give more time for i thing about us
 
 **Linguagens & Engine:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
