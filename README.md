@@ -1,4 +1,4 @@
-TAAAAAAAAAAA MALUCO????????????????W
+TAAAAAAAAAAA MALUCO????????????????
 
 Focado em dominar o **C#**
 ---
@@ -22,5 +22,5 @@ Focado em dominar o **C#**
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/qhiMOk6cD1MAAAAd/arnold-schwarzenegger-straight-face.gif" width="300" />
+  <img src="https://tenor.com/pt-BR/view/arnold-schwarzenegger-straight-face-serious-serious-face-problem-gif-12256700567943647059" width="300" />
 </p>
