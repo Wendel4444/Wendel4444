@@ -1,10 +1,9 @@
 TAAAAAAAAAAA MALUCO????????????????
 
-Focado em dominar o **C#**
+**C#?????w**
 ---
 ｉ ｄｏｎｔ ｋｎｏｗ， ｂｕｔ ｉ ｈａｖｅ ｉｄｅａ．
 
-ｗｈｙ ｙｏｕ ｎｏｔ ｇｉｖｅ ｍｏｒｅ ｔｉｍｅ ｆｏｒ ｉ ｔｈｉｎｇ ａｂｏｕｔ ｕｓ
 
 **Linguagens & Engine:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
